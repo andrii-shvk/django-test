@@ -1,0 +1,1 @@
+export const apiDjangroUrl = import.meta.env.VITE_API_DJANGO_URL;
